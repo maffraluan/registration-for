@@ -55,7 +55,6 @@ function Photos() {
 
   const saveNewPhotoPost = photo => {
     const newPhotoPosts = [...photos, { photo }];
-    console.log(newPhotoPosts)
     setPhotos(newPhotoPosts);
   };
 
