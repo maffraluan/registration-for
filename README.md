@@ -17,7 +17,7 @@
       -form
       -photos
        -photo
-      -customHooks
+     -customHooks
      -pages
      
 ##### EG
