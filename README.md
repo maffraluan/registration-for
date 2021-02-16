@@ -10,13 +10,14 @@
 
 
 ### Structure
-	-public
+    -public
     -src
      -_redux
      -components
       -form
       -photos
        -photo
+      -customHooks
      -pages
      
 ##### EG
