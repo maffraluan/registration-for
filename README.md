@@ -5,7 +5,7 @@
 
 ### Develop
 > `git clone && cd /registration-for` <br>
-> `[yarn](https://yarnpkg.com/) install or [npm](https://www.npmjs.com/) install to download all the dependecies.` <br>
+> [yarn](https://yarnpkg.com/) install or [npm](https://www.npmjs.com/) install to download all the dependecies. <br>
 > `yarn start or npm start to run the app.`
 
 
@@ -16,7 +16,7 @@
      -components
       -form
       -photos
-      	-photo
+       -photo
      -pages
      
 ##### EG
